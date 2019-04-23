@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b5e148b-6d26-45a6-82bd-7ffff6925e6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/TestDOM4J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/TestDefaultLSAltConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/TestDefaultParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/TestDefaultParserAltConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/TestGNUJAXP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/TestXercesAltConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/alltests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/attrcreatetextnode2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/attrname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/attrnextsiblingnull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/attrprevioussiblingnull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/attrreplacechild1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/attrsetvaluenomodificationallowederrEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdataappenddatagetdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdataappenddatanomodificationallowederr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdataappenddatanomodificationallowederrEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatadeletedatabegining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatagetlength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdataindexsizeerrdeletedatacountnegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdataindexsizeerrdeletedataoffsetnegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdataindexsizeerrinsertdataoffsetnegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdataindexsizeerrreplacedataoffsetnegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdataindexsizeerrsubstringoffsetgreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatainsertdatanomodificationallowederrEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatareplacedatabegining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatareplacedataexceedslengthofdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatareplacedatanomodificationallowederrEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatasetdatanomodificationallowederr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatasubstringexceedsvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/characterdatasubstringvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/commentgetcomment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentcreatecdatasection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentcreatecomment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentcreatetextnode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentgetdoctypenodtd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentgetelementsbytagnamelength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentgetelementsbytagnamevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentgetimplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentinvalidcharacterexceptioncreateattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentinvalidcharacterexceptioncreateelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentinvalidcharacterexceptioncreateentref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentinvalidcharacterexceptioncreateentref1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documentinvalidcharacterexceptioncreatepi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documenttypegetentitieslength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/documenttypegetnotationstype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementaddnewattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementassociatedattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementchangeattributevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementcreatenewattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementgetattributenodenull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementgetelementsbytagnamenomatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementgetelementsbytagnamespecialvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementnotfounderr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementremoveattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementremoveattributenode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementremoveattributenodenomodificationallowederr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementremoveattributenodenomodificationallowederrEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/elementsetattributenomodificationallowederrEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/entitygetentityname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrappendchild1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrappendchild5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attreffectivevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrfirstchild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrgetvalue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrinsertbefore3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrinsertbefore6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrnextsiblingnull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrnormalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrreplacechild2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrsetvalue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_attrsetvalue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdatadeletedataend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdatadeletedataexceedslength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdatadeletedatamiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdataindexsizeerrdeletedataoffsetgreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdataindexsizeerrdeletedataoffsetnegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdataindexsizeerrinsertdataoffsetnegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdataindexsizeerrsubstringoffsetgreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdatareplacedatabegining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdatareplacedataexceedslengthofdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_characterdatareplacedatamiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_documentcreateelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_documentcreatetextnode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_documentgetdoctype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_documentgetelementsbytagnamelength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_documentgetimplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_documentgetrootnode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_documentinvalidcharacterexceptioncreateelement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_domimplementationfeaturenull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_domimplementationfeaturexml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementgetattributenodenull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementgetelementsbytagname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementgettagname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementinvalidcharacterexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementnormalize2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementremoveattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementremoveattributeaftercreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementremoveattributenode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementreplaceexistingattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementreplaceexistingattributegevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_elementretrievetagname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_namednodemapnotfounderr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_namednodemapnumberofnodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_namednodemapremovenameditem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_namednodemapreturnfirstitem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_namednodemapwrongdocumenterr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeappendchild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeappendchildchildexists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeattributenodetype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodechildnodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodechildnodesappendchild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeclonefalsenocopytext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeclonegetparentnull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeclonetruecopytext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodecommentnodeattributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodecommentnodevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodedocumentfragmentnodename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodedocumentfragmentnodevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodedocumentnodename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodegetlastchildnull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeinsertbeforeinvalidnodetype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeinsertbeforenewchilddiffdocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodelistindexequalzero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodelistindexnotzero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodelistreturnlastitem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodeparentnode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_noderemovechildgetnodename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_noderemovechildnode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_noderemovechildoldchildnonexistent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodereplacechildnodeancestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodetextnodeattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodevalue03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_nodevalue05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_notationssetnameditem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_textindexsizeerrnegativeoffset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_textindexsizeerroffsetoutofbounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_textsplittextfour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/hc_textsplittextone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/namednodemapnotfounderr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/namednodemapnumberofnodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/namednodemapreturnattrnode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/namednodemapreturnlastitem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/namednodemapsetnameditemreturnvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/namednodemapwrongdocumenterr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeappendchilddocfragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeappendchildnomodificationallowederr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeattributenodeattribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeattributenodetype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeattributenodevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodechildnodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeclonenodetrue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeclonetruecopytext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodecommentnodename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodedocumenttypenodetype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodedocumenttypenodevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeelementnodename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeentitynodeattributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeentitynodename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeentitynodetype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeentitynodevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeentityreferencenodevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodegetfirstchildnull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodegetlastchild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodegetnextsibling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodegetnextsiblingnull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeinsertbeforenewchilddiffdocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeinsertbeforenewchildexists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeinsertbeforenodename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeinsertbeforenomodificationallowederr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeinsertbeforenomodificationallowederrEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeinsertbeforerefchildnonexistent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeinsertbeforerefchildnull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodelistindexequalzero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodelistindexgetlength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodelistindexnotzero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodenotationnodevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeparentnode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeprocessinginstructionnodetype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodeprocessinginstructionsetnodevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodereplacechildinvalidnodetype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodereplacechildnewchildexists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodereplacechildnodeancestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodevalue01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodevalue03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/nodevalue08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/processinginstructiongetdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/processinginstructiongettarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/processinginstructionsetdatanomodificationallowederr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/processinginstructionsetdatanomodificationallowederrEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/textindexsizeerroffsetoutofbounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/textsplittextthree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/android-28/org/w3c/domts/level1/core/textwithnomarkup.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2000332891">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="share&#9;ACTION&#9;Github.Share" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b5e148b-6d26-45a6-82bd-7ffff6925e6e" name="Default Changelist" comment="" />
+      <created>1552459867528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552459867528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3295302" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32954547" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/test/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
