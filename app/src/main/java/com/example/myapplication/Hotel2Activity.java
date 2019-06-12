@@ -36,6 +36,7 @@ public class Hotel2Activity extends AppCompatActivity {
                 startActivity(intent);
 
 
+
             }
         });
 
